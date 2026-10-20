@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "213896dd-1ecd-47a8-8322-d6d87c8e8337"
+      }
+    },
+    "owner": "trkalis-team"
   }
 }
